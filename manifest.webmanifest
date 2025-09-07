@@ -1,0 +1,9 @@
+{
+  "name": "SPAプロジェクト：リアルタイム異常検知アプリ",
+  "short_name": "SPA Monitor",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#0b1220",
+  "theme_color": "#0b1220",
+  "description": "ブラウザだけで動くリアルタイム異常検知アプリ（オフライン対応設計、外部CDN不要）"
+}
